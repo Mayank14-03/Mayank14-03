@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Mayank 👋  
 
-<!--
-**Mayank14-03/Mayank14-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Entry-Level Python Developer | Aspiring Data Analyst | SQL • Django • Excel**  
 
-Here are some ideas to get you started:
+I am an MCA graduate passionate about software development and data analytics.  
+I have learned **Python, SQL, Django, Pandas, NumPy, MS Excel, HTML, and CSS** through coursework and self-study.  
+I’m eager to contribute to real-world projects, sharpen my problem-solving skills, and grow as a developer and analyst.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills  
+- **Languages:** Python, SQL, HTML, CSS  
+- **Frameworks & Libraries:** Django, Pandas, NumPy  
+- **Tools:** MS Excel, Git & GitHub  
+
+---
+
+## 📈 My Learning Focus  
+- Building small projects in Python and Django  
+- Practicing SQL queries and data analysis  
+- Strengthening programming logic and problem-solving skills  
+
+---
+
+## 📬 Connect With Me  
+- **LinkedIn:** [linkedin.com/in/mayank-korde-386bb1317](https://linkedin.com/in/mayank-korde-386bb1317)  
+- **Email:** your.email@example.com *(replace with your email)*  
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true)  
+
