@@ -24,7 +24,7 @@ I’m eager to contribute to real-world projects, sharpen my problem-solving ski
 
 ## 📬 Connect With Me  
 - **LinkedIn:** [linkedin.com/in/mayank-korde-386bb1317](https://linkedin.com/in/mayank-korde-386bb1317)  
-- **Email:** your.email@example.com *(replace with your email)*  
+- **Email:** kordemayank1@gmail.com
 
 ---
 
